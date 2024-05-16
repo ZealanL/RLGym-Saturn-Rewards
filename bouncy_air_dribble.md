@@ -6,7 +6,7 @@ Though extensive testing, I was able to define a set of conditions that are only
 
 If you don't know why it has to be bouncy, it is because bouncy air dribbles are stronger in general. 
 
-Most air dribbling ML bots I had seen when making Saturn had gluey flip reset, where there is little to no space between the nose of the car and the ball.
+Most air dribbling ML bots I had seen when making Saturn had gluey contact, where there is little to no space between the nose of the car and the ball.
 This air dribble looks cool, and is more difficult than a bouncy air dribble, but in most cases, is worse. You don't have any space to change the direction of a ball, nor go for a reset. 
 
 Before we get into defining an air dribble towards the opponents net, let's define how we can detect this bounciness.
